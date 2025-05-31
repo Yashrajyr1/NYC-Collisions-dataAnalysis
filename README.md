@@ -18,7 +18,7 @@ Which boroughs have the highest number of collisions?
 1. Clone this repo.
 2. Install required libraries
 
-👤 Author
+# 👤 Author
 [Yashraj Singh]
 Email: [yashrajsingh2288@gmail.com]
 LinkedIn: [https://www.linkedin.com/in/yashrajsingh-/]
