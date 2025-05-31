@@ -8,11 +8,11 @@ Using publicly available data from NYC Open Data, the project leverages data cle
 
 ## 🎯Objectives
 ## The project helps answer questions such as:
-*Which boroughs have the highest number of collisions?
-*What are the top contributing factors to accidents?
-*What time of day or year do collisions peak?
-*How many people are injured or killed in these collisions?
-*Are pedestrians, cyclists, or motorists more frequently affected?
+- Which boroughs have the highest number of collisions?
+- What are the top contributing factors to accidents?
+- What time of day or year do collisions peak?
+- How many people are injured or killed in these collisions?
+- Are pedestrians, cyclists, or motorists more frequently affected?
 
 
 ## 📈 Sample Visualizations
@@ -35,9 +35,9 @@ Using publicly available data from NYC Open Data, the project leverages data cle
 
 # 👤 Author
 **[Yashraj Singh]**
--Email: [yashrajsingh2288@gmail.com]
--LinkedIn: [https://www.linkedin.com/in/yashrajsingh-/]
--GitHub: [https://github.com/Yashrajyr1]
+- Email: [yashrajsingh2288@gmail.com]
+- LinkedIn: [https://www.linkedin.com/in/yashrajsingh-/]
+- GitHub: [https://github.com/Yashrajyr1]
 
 
 
